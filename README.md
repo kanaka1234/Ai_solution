@@ -97,4 +97,4 @@ ai-agent-platform/
 
 ## License
 
-MIT yes
+MIT no
